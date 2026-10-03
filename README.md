@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of gooof/global-ext.** Not for installation: use [Packagist](https://packagist.org/packages/gooof/global-ext) or the [upstream repository](https://github.com/gooof/global-ext).
 
-**0** versions archived · Latest: [`v1.0`](https://github.com/flarchive/gooof-global-ext/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**4** versions archived · Latest: [`v1.0`](https://github.com/flarchive/gooof-global-ext/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2018-09-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/gooof-global-ext/tree/archive/v0.1) |
+| `0.7.1` | 2018-09-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/gooof-global-ext/tree/archive/v0.7.1) |
+| `v0.1.0-beta.7.1` | 2018-09-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/gooof-global-ext/tree/archive/v0.1.0-beta.7.1) |
+| `v1.0` | 2018-09-23 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/gooof-global-ext/tree/archive/v1.0) |
 
 Catalog entry: [packages/gooof-global-ext.json](https://github.com/flarchive/archive-index/blob/main/packages/gooof-global-ext.json)
 
